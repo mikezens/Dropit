@@ -1,6 +1,7 @@
 {
 	"name": "gilbitron/Dropit",
 	"main": "dropit.js",
+	"version": "1.1.1",
 	"description": "Dropit is a jQuery plugin for single level dropdown menu's",
 	"license": "MIT",
 	"dependencies": {
