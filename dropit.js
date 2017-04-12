@@ -1,5 +1,5 @@
 /*
- * Dropit v1.1.0
+ * Dropit v1.1.2
  * http://dev7studios.com/dropit
  *
  * Copyright 2012, Dev7studios
